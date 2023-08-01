@@ -1,5 +1,5 @@
 {
-  "name": "@resto/eslint-config-custom",
+  "name": "@starter/eslint-config-custom",
   "version": "0.0.0",
   "main": "index.js",
   "license": "MIT",

@@ -9,15 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@resto/ui": "*",
+    "@starter/ui": "*",
     "next": "13.4.12",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@resto/eslint-config-custom": "*",
-    "@resto/prettier-config": "*",
-    "@resto/tsconfig": "*",
+    "@starter/eslint-config-custom": "*",
+    "@starter/prettier-config": "*",
+    "@starter/tsconfig": "*",
     "@types/node": "20.4.5",
     "@types/react": "18.2.17",
     "@types/react-dom": "18.2.7",

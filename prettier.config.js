@@ -1,4 +1,4 @@
-const sharedConfig = require('@resto/prettier-config');
+const sharedConfig = require('@starter/prettier-config');
 
 module.exports = {
   ...sharedConfig,

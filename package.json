@@ -1,5 +1,5 @@
 {
-  "name": "resto",
+  "name": "turbo-starter",
   "private": true,
   "scripts": {
     "build": "turbo run build",
@@ -8,8 +8,8 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
-    "@resto/eslint-config-custom": "*",
-    "@resto/prettier-config": "*",
+    "@starter/eslint-config-custom": "*",
+    "@starter/prettier-config": "*",
     "@turbo/gen": "^1.9.7",
     "eslint": "^7.32.0",
     "prettier": "^2.5.1",
